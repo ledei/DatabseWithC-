@@ -1,0 +1,15 @@
+F:\programmering\c# - masterclass\Database\Database\bin\Debug\Database.exe.config
+F:\programmering\c# - masterclass\Database\Database\bin\Debug\Database.exe
+F:\programmering\c# - masterclass\Database\Database\bin\Debug\Database.pdb
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\MainWindow.g.cs
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\App.g.cs
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database_MarkupCompile.cache
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database_MarkupCompile.lref
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\MainWindow.baml
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database.g.resources
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database.Properties.Resources.resources
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database.exe
+F:\programmering\c# - masterclass\Database\Database\obj\Debug\Database.pdb
